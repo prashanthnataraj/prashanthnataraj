@@ -11,8 +11,8 @@ I'm building [Lume AI](https://getlumeai.com) — an AI-powered marketing agent 
 **Recent builds**
 
 - [`lume-ai`](https://getlumeai.com) — the platform: Next.js + Supabase + Stripe, 200+ PRs shipped in a single marathon session using the agent mesh
-- [`multi-agent-mesh`](https://github.com/prashanthnatraj/multi-agent-mesh) — installable Claude Code skill that gives any project a full specialist agent team (researcher / designer / engineer / tester / GTM)
-- [`shai-hulud-detector`](https://github.com/prashanthnatraj/mini-shai-hulud-detector) — bash scanner for the Mini Shai-Hulud npm supply-chain attack (CVE-2026-45321). Detect before you rotate tokens — the worm's daemon triggers `rm -rf ~` on revocation.
+- [`multi-agent-mesh`](https://github.com/prashanthnataraj/multi-agent-mesh) — installable Claude Code skill that gives any project a full specialist agent team (researcher / designer / engineer / tester / GTM)
+- [`shai-hulud-detector`](https://github.com/prashanthnataraj/mini-shai-hulud-detector) — bash scanner for the Mini Shai-Hulud npm supply-chain attack (CVE-2026-45321). Detect before you rotate tokens — the worm's daemon triggers `rm -rf ~` on revocation.
 
 **Stack I ship in**
 
